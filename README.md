@@ -1,12 +1,3 @@
-<p align="center"><a href="https://yampi.com.br" target="_blank"><img src="https://icons.yampi.me/svg/brand-yampi.svg" width="200"></a></p>
-
-# Teste prático para Back-End Developer
-***
-
-Bem-vinda, pessoa desenvolvedora.
-
-Este é o teste que nós, aqui da Yampi, usamos para avaliar tecnicamente todas as pessoas que estão participando do nosso processo seletivo para a vaga de desenvolvimento Back-End.
-
 ## TL;DR
 
 - Você deverá criar um CRUD através de uma API REST com Laravel;

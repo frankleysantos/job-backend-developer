@@ -7,6 +7,7 @@ use Illuminate\Support\ServiceProvider;
 use App\Repositories\Contracts\UserRepositoryInterface;
 use App\Repositories\Core\Eloquent\EloquentProductRepository;
 use App\Repositories\Core\Eloquent\EloquentUserRepository;
+use App\Services\ProductServices;
 
 class RepositoryServiceProvider extends ServiceProvider
 {
